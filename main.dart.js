@@ -44950,7 +44950,7 @@ F.xg.prototype={
 T(a,b){return new S.p0(C.xN,"Flutter Demo",X.a2A(null,C.By,X.a2L()),!1,null)}}
 X.wv.prototype={
 T(a,b){var s=null
-return new M.q6(M.Y2(s,T.a2h(H.a([L.a2z("Hench",s),new B.p2(new X.KS(),L.a2z("Privacy Policy",s),s)],t.U),C.my),C.Bz,s,s,s,s),s)}}
+return new M.q6(M.Y2(s,T.a2h(H.a([L.a2z("Hench",s),new B.p2(new X.KS(),L.a2z("Privacy Policyfgit ",s),s)],t.U),C.my),C.Bz,s,s,s,s),s)}}
 X.KS.prototype={
 $0(){},
 $S:0}
